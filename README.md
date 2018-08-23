@@ -9,4 +9,4 @@ Before deploying to Azure app service add a run.cmd/run.sh(depending on app serv
 these instructions can be used for deploying to Azure.
 https://blogs.msdn.microsoft.com/benjaminperkins/2017/03/07/how-to-deploy-a-net-core-console-application-to-azure-webjob/
 
-echo dotnet CoreRebusWebJobHandlerService.dll -> run.cmd
+`echo dotnet CoreRebusWebJobHandlerService.dll -> run.cmd`
